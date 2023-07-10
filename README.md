@@ -21,7 +21,7 @@ I am an accomplished educator and software engineer with a passion for machine l
 - 🔭 I’m currently working on ML projects.                                                           
   
 
-- ⚡ I’m interested in AL, Computer & Machine Vision , Robotic.  
+- ⚡ I’m interested in AL, Computer & Machine Vision , Robotic.                                       
   
 
 - 🌱 I’m currently learning Digital Image Processing.  
