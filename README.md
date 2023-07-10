@@ -16,9 +16,9 @@ I am an accomplished educator and software engineer with a passion for machine l
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%" >
+<table><tr><td valign="top" >
 
-- 🔭 I’m currently working on ML projects.  
+- 🔭 I’m currently working on ML projects.                                                           
   
 
 - ⚡ I’m interested in AL, Computer & Machine Vision , Robotic.  
