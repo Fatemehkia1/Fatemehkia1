@@ -8,7 +8,7 @@ I am an accomplished educator and software engineer with a passion for machine l
   
 
 <div align="center">
-<img src="https://imgurl.ir/uploads/e32_Fatemeh-QR.png" align="center" height="400"  />
+<img src="https://imgurl.ir/uploads/e32_Fatemeh-QR.png" align="center" height="400" width="400" />
 </div>  
   
 
@@ -16,7 +16,7 @@ I am an accomplished educator and software engineer with a passion for machine l
 
 
 ## Rapidfire  
-<table><tr><td valign="top" >
+<table><tr><td valign="top" width="100%" >
 
 - 🔭 I’m currently working on ML projects.  
   
